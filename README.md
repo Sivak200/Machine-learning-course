@@ -80,7 +80,7 @@ No. of Lower-case Characters: 12
 Name : Siva Kalyan Kotipalli
 Student Id : 700758240
 Date : 04-06-2024
-Video Link:file:///Users/kalyan/Downloads/screen-capture%20(1).webm
+Video Link:file:https://github.com/Sivak200/Machine-learning-course/blob/main/screen-capture%20(1).webm
 
 
 
